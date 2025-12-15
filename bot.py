@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 from telegram.constants import ParseMode
 
 # Konfigurasi
-BOT_TOKEN = "8500107504"
+BOT_TOKEN = "8500107504:AAFjjAjIb6k9Hdm8QiUoyGUFiIB8x0dMNNs"
 ADMIN_USER_IDS = [6384292054]  # Ganti dengan user ID admin Anda
 DATA_FILE = "users.json"
 
